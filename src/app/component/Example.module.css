@@ -1,0 +1,15 @@
+/* styles.module.css */
+
+.container {
+    max-width: 960px; /* Maximum width for the container */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 0 20px;
+    color: aqua; /* Add padding to the sides */
+  }
+  
+  .title {
+    font-size: 2rem; /* Large font size for the title */
+    margin-bottom: 20px; /* Add spacing below the title */
+    color: #333; /* Dark text color */
+  }
+  
